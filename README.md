@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himal Kshemendra
-- 👀 I’m interested in ...Web devolopment.
-- 🌱 I’m currently learning ...Sofware engineering
+- 👀 I’m interested in ...Web development.
+- 🌱 I’m currently learning ... Software engineering
 - 📫 How to reach me ...kshemendra1999@gmail.com
 - 😄 Pronouns: ...He/Him
 
